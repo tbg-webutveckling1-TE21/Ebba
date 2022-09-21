@@ -1,0 +1,18 @@
+table {
+    margin: auto;
+    padding: 50px;
+}
+th {
+    border: 1px black solid;
+    font-size:25px;
+}
+
+td {
+    border: 1px black solid;
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding:10px;
+}
+tr:nth-child(even) {
+    background-color: rgb(252, 198, 206);
+}
