@@ -16,3 +16,8 @@ td {
 tr:nth-child(even) {
     background-color: rgb(252, 198, 206);
 }
+td:hover {
+    font-size: 130%;
+    transition:0.4s;
+    background-color: rgb(204, 161, 161);
+}
